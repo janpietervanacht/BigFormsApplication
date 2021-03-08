@@ -1,0 +1,61 @@
+﻿// Drag en Drop van ListBox 1 naar ListBox 2
+// Waarbij ListBox 1 bestaat uit een lijst van strings
+// en er onder water nog géén ClientVM onder hangt. 
+
+// In de uiteindelijke source willen we ClientVM eronder hangen
+ 
+public partial class FrmSimpleDragDrop : Form
+{
+    int index = 0; 
+
+    public FrmSimpleDragDrop()
+    {
+        InitializeComponent();
+    }
+
+    private void FrmSimpleDragDrop_Load(object sender, EventArgs e)
+    {
+        ListBoxLeft.Items.Clear();
+        ListBoxLeft.Items.Add("Regel 1 links");
+        ListBoxLeft.Items.Add("Regel 2 links");
+        ListBoxLeft.Items.Add("Regel 3 links");
+        ListBoxLeft.Items.Add("Regel 4 links");
+
+        var itemsRight = new string[] { "Regel 1 rechts", "Regel 2 rechts", "Regel 3 rechts" }; 
+        ListBoxRight.Items.Clear();
+        ListBoxRight.Items.AddRange(itemsRight); 
+
+    }
+
+
+    private void ListBoxLeft_MouseDown(object sender, MouseEventArgs e)
+    {
+        var check1 = sender as ListBox;
+        index = check1.IndexFromPoint(e.X, e.Y); // x en y coordinaat van muis
+        if (index >= 0 && e.Button == MouseButtons.Left)
+        {
+            check1.DoDragDrop(check1.Items[index].ToString(), DragDropEffects.Move); 
+        }
+            
+    }
+
+    private void ListBoxRight_DragEnter(object sender, DragEventArgs e)
+    {
+        if (e.Data.GetDataPresent(typeof(string)))
+        {
+            e.Effect = DragDropEffects.Move;
+        }
+        else
+        {
+            e.Effect = DragDropEffects.None;
+        }
+    }
+
+    private void ListBoxRight_DragDrop(object sender, DragEventArgs e)
+    {
+        var check2 = sender as ListBox;
+        check2.Items.Add(e.Data.GetData(typeof(string)).ToString());
+        ListBoxLeft.Items.RemoveAt(index); 
+    }
+}
+ 
