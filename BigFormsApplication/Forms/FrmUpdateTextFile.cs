@@ -11,7 +11,7 @@ namespace BigFormsApplication.Forms
     public partial class FrmUpdateTextFile : Form
     {
         string _fileNameOrig;
-        // iefening met text file
+        // oefening met text file
         public FrmUpdateTextFile()
         {
             InitializeComponent();
