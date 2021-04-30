@@ -82,3 +82,17 @@ C:\Users\janpi\source\repos\@BigForms App\BigFormsApplication Current\Business\o
 C:\Users\janpi\source\repos\@BigForms App\BigFormsApplication Current\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
 C:\Users\janpi\source\repos\@BigForms App\BigFormsApplication Current\Business\obj\Debug\netcoreapp3.1\Business.dll
 C:\Users\janpi\source\repos\@BigForms App\BigFormsApplication Current\Business\obj\Debug\netcoreapp3.1\Business.pdb
+D:\Users\janpi\repos-d\@BigForms App\BigFormsApplication Current\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+D:\Users\janpi\repos-d\@BigForms App\BigFormsApplication Current\Business\bin\Debug\netcoreapp3.1\Business.dll
+D:\Users\janpi\repos-d\@BigForms App\BigFormsApplication Current\Business\bin\Debug\netcoreapp3.1\Business.pdb
+D:\Users\janpi\repos-d\@BigForms App\BigFormsApplication Current\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\Users\janpi\repos-d\@BigForms App\BigFormsApplication Current\Business\bin\Debug\netcoreapp3.1\Model.dll
+D:\Users\janpi\repos-d\@BigForms App\BigFormsApplication Current\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\Users\janpi\repos-d\@BigForms App\BigFormsApplication Current\Business\bin\Debug\netcoreapp3.1\Model.pdb
+D:\Users\janpi\repos-d\@BigForms App\BigFormsApplication Current\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+D:\Users\janpi\repos-d\@BigForms App\BigFormsApplication Current\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+D:\Users\janpi\repos-d\@BigForms App\BigFormsApplication Current\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+D:\Users\janpi\repos-d\@BigForms App\BigFormsApplication Current\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+D:\Users\janpi\repos-d\@BigForms App\BigFormsApplication Current\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+D:\Users\janpi\repos-d\@BigForms App\BigFormsApplication Current\Business\obj\Debug\netcoreapp3.1\Business.dll
+D:\Users\janpi\repos-d\@BigForms App\BigFormsApplication Current\Business\obj\Debug\netcoreapp3.1\Business.pdb

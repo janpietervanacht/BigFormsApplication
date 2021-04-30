@@ -17,45 +17,19 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Update="Forms\FrmBackGroundProcess.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="Forms\FrmPropertyGrid.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="Forms\FrmTabPages.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="Forms\FrmWebClient.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="Forms\FrmCreatePopStarWithComboBox.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="Forms\FrmDataGridViewReadOnly.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="Forms\FrmUpdateTextFile.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="Forms\FrmListViewToListView.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="Forms\FrmDragDropListBoxToListBox.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="Forms\FrmTreeView.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="Forms\FrmCheckedListBox.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="Forms\FrmSimpleDragDrop.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="Forms\FrmPopStars.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Update="Forms\FrmBackGroundProcess.cs" />
+    <Compile Update="Forms\FrmPropertyGrid.cs" />
+    <Compile Update="Forms\FrmTabPages.cs" />
+    <Compile Update="Forms\FrmWebClient.cs" />
+    <Compile Update="Forms\FrmCreatePopStarWithComboBox.cs" />
+    <Compile Update="Forms\FrmDataGridViewReadOnly.cs" />
+    <Compile Update="Forms\FrmUpdateTextFile.cs" />
+    <Compile Update="Forms\FrmListViewToListView.cs" />
+    <Compile Update="Forms\FrmDragDropListBoxToListBox.cs" />
+    <Compile Update="Forms\FrmTreeView.cs" />
+    <Compile Update="Forms\FrmCheckedListBox.cs" />
+    <Compile Update="Forms\FrmSimpleDragDrop.cs" />
+    <Compile Update="Forms\FrmPopStars.cs" />
   </ItemGroup>
 
   <ItemGroup>

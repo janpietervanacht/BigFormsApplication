@@ -3005,6 +3005,7 @@
       "path": "runtime.native.system.data.sqlclient.sni/4.4.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
@@ -3263,6 +3264,7 @@
       "path": "system.collections.specialized/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -6552,11 +6554,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\janpi\\source\\repos\\@BigForms App\\BigFormsApplication Current\\BigFormsApplication\\BigFormsApplication.csproj",
+      "projectUniqueName": "D:\\Users\\janpi\\repos-d\\@BigForms App\\BigFormsApplication Current\\BigFormsApplication\\BigFormsApplication.csproj",
       "projectName": "BigFormsApplication",
-      "projectPath": "C:\\Users\\janpi\\source\\repos\\@BigForms App\\BigFormsApplication Current\\BigFormsApplication\\BigFormsApplication.csproj",
+      "projectPath": "D:\\Users\\janpi\\repos-d\\@BigForms App\\BigFormsApplication Current\\BigFormsApplication\\BigFormsApplication.csproj",
       "packagesPath": "C:\\Users\\janpi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\janpi\\source\\repos\\@BigForms App\\BigFormsApplication Current\\BigFormsApplication\\obj\\",
+      "outputPath": "D:\\Users\\janpi\\repos-d\\@BigForms App\\BigFormsApplication Current\\BigFormsApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6575,14 +6577,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\janpi\\source\\repos\\@BigForms App\\BigFormsApplication Current\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\janpi\\source\\repos\\@BigForms App\\BigFormsApplication Current\\Business\\Business.csproj"
+            "D:\\Users\\janpi\\repos-d\\@BigForms App\\BigFormsApplication Current\\Business\\Business.csproj": {
+              "projectPath": "D:\\Users\\janpi\\repos-d\\@BigForms App\\BigFormsApplication Current\\Business\\Business.csproj"
             },
-            "C:\\Users\\janpi\\source\\repos\\@BigForms App\\BigFormsApplication Current\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\janpi\\source\\repos\\@BigForms App\\BigFormsApplication Current\\DataAccess\\DataAccess.csproj"
+            "D:\\Users\\janpi\\repos-d\\@BigForms App\\BigFormsApplication Current\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "D:\\Users\\janpi\\repos-d\\@BigForms App\\BigFormsApplication Current\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\janpi\\source\\repos\\@BigForms App\\BigFormsApplication Current\\Model\\Model.csproj": {
-              "projectPath": "C:\\Users\\janpi\\source\\repos\\@BigForms App\\BigFormsApplication Current\\Model\\Model.csproj"
+            "D:\\Users\\janpi\\repos-d\\@BigForms App\\BigFormsApplication Current\\Model\\Model.csproj": {
+              "projectPath": "D:\\Users\\janpi\\repos-d\\@BigForms App\\BigFormsApplication Current\\Model\\Model.csproj"
             }
           }
         }
@@ -6619,7 +6621,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.406\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.408\\RuntimeIdentifierGraph.json"
       }
     }
   }

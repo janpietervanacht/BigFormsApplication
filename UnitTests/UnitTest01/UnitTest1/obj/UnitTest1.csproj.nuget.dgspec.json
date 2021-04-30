@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\janpi\\source\\repos\\@BigForms App\\BigFormsApplication Current\\UnitTests\\UnitTest01\\UnitTest1\\UnitTest1.csproj": {}
+    "D:\\Users\\janpi\\repos-d\\@BigForms App\\BigFormsApplication Current\\UnitTests\\UnitTest01\\UnitTest1\\UnitTest1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\janpi\\source\\repos\\@BigForms App\\BigFormsApplication Current\\UnitTests\\UnitTest01\\UnitTest1\\UnitTest1.csproj": {
+    "D:\\Users\\janpi\\repos-d\\@BigForms App\\BigFormsApplication Current\\UnitTests\\UnitTest01\\UnitTest1\\UnitTest1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\janpi\\source\\repos\\@BigForms App\\BigFormsApplication Current\\UnitTests\\UnitTest01\\UnitTest1\\UnitTest1.csproj",
+        "projectUniqueName": "D:\\Users\\janpi\\repos-d\\@BigForms App\\BigFormsApplication Current\\UnitTests\\UnitTest01\\UnitTest1\\UnitTest1.csproj",
         "projectName": "UnitTest1",
-        "projectPath": "C:\\Users\\janpi\\source\\repos\\@BigForms App\\BigFormsApplication Current\\UnitTests\\UnitTest01\\UnitTest1\\UnitTest1.csproj",
+        "projectPath": "D:\\Users\\janpi\\repos-d\\@BigForms App\\BigFormsApplication Current\\UnitTests\\UnitTest01\\UnitTest1\\UnitTest1.csproj",
         "packagesPath": "C:\\Users\\janpi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\janpi\\source\\repos\\@BigForms App\\BigFormsApplication Current\\UnitTests\\UnitTest01\\UnitTest1\\obj\\",
+        "outputPath": "D:\\Users\\janpi\\repos-d\\@BigForms App\\BigFormsApplication Current\\UnitTests\\UnitTest01\\UnitTest1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -73,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.408\\RuntimeIdentifierGraph.json"
         }
       }
     }
