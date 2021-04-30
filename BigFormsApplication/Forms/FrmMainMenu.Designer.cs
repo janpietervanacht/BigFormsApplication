@@ -60,7 +60,7 @@
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Padding = new System.Windows.Forms.Padding(14, 5, 0, 5);
-            this.menuStrip1.Size = new System.Drawing.Size(1484, 39);
+            this.menuStrip1.Size = new System.Drawing.Size(1482, 46);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip";
             // 
@@ -82,69 +82,69 @@
             this.BackGroundProcess,
             this.TabPages});
             this.MenuItemClienten.Name = "MenuItemClienten";
-            this.MenuItemClienten.Size = new System.Drawing.Size(96, 29);
+            this.MenuItemClienten.Size = new System.Drawing.Size(117, 36);
             this.MenuItemClienten.Text = "Clienten";
             // 
             // ClientenListView
             // 
             this.ClientenListView.Name = "ClientenListView";
-            this.ClientenListView.Size = new System.Drawing.Size(353, 30);
+            this.ClientenListView.Size = new System.Drawing.Size(427, 36);
             this.ClientenListView.Text = "Clienten in ListView Formaat";
             this.ClientenListView.Click += new System.EventHandler(this.MenuItemClientenListView_Click);
             // 
             // ClientenListBox
             // 
             this.ClientenListBox.Name = "ClientenListBox";
-            this.ClientenListBox.Size = new System.Drawing.Size(353, 30);
+            this.ClientenListBox.Size = new System.Drawing.Size(427, 36);
             this.ClientenListBox.Text = "Clienten in ListBox formaat";
             this.ClientenListBox.Click += new System.EventHandler(this.MenuItemClientenListBox_Click);
             // 
             // ClientenTreeView
             // 
             this.ClientenTreeView.Name = "ClientenTreeView";
-            this.ClientenTreeView.Size = new System.Drawing.Size(353, 30);
+            this.ClientenTreeView.Size = new System.Drawing.Size(427, 36);
             this.ClientenTreeView.Text = "Clienten Tree View";
             this.ClientenTreeView.Click += new System.EventHandler(this.MenuItemClientenTreeView_Click);
             // 
             // ClientenCheckedListBox
             // 
             this.ClientenCheckedListBox.Name = "ClientenCheckedListBox";
-            this.ClientenCheckedListBox.Size = new System.Drawing.Size(353, 30);
+            this.ClientenCheckedListBox.Size = new System.Drawing.Size(427, 36);
             this.ClientenCheckedListBox.Text = "Clienten Checked List Box";
             this.ClientenCheckedListBox.Click += new System.EventHandler(this.MenuItemClientenCheckedListBox_Click);
             // 
             // PopStar2ListBoxes
             // 
             this.PopStar2ListBoxes.Name = "PopStar2ListBoxes";
-            this.PopStar2ListBoxes.Size = new System.Drawing.Size(353, 30);
+            this.PopStar2ListBoxes.Size = new System.Drawing.Size(427, 36);
             this.PopStar2ListBoxes.Text = "Popsterren 2 ListBoxes";
             this.PopStar2ListBoxes.Click += new System.EventHandler(this.MenuItemPopSterListBoxes_Click);
             // 
             // SimpleDragDrop
             // 
             this.SimpleDragDrop.Name = "SimpleDragDrop";
-            this.SimpleDragDrop.Size = new System.Drawing.Size(353, 30);
+            this.SimpleDragDrop.Size = new System.Drawing.Size(427, 36);
             this.SimpleDragDrop.Text = "Eenvoudige Drag Drop";
             this.SimpleDragDrop.Click += new System.EventHandler(this.MenuItemSimpleDragDrop_Click);
             // 
             // DragDropListBoxToListBox
             // 
             this.DragDropListBoxToListBox.Name = "DragDropListBoxToListBox";
-            this.DragDropListBoxToListBox.Size = new System.Drawing.Size(353, 30);
+            this.DragDropListBoxToListBox.Size = new System.Drawing.Size(427, 36);
             this.DragDropListBoxToListBox.Text = "Drag Drop ListBox to ListBox ";
             this.DragDropListBoxToListBox.Click += new System.EventHandler(this.MenuItemDragDropListBoxToListBox_Click);
             // 
             // ListViewToListViewPopstars
             // 
             this.ListViewToListViewPopstars.Name = "ListViewToListViewPopstars";
-            this.ListViewToListViewPopstars.Size = new System.Drawing.Size(353, 30);
+            this.ListViewToListViewPopstars.Size = new System.Drawing.Size(427, 36);
             this.ListViewToListViewPopstars.Text = "Popsterren (2 ListViews)";
             this.ListViewToListViewPopstars.Click += new System.EventHandler(this.MenuItemDragDropListViewToListViewPopstars_Click);
             // 
             // CreatePopStarViaComboBox
             // 
             this.CreatePopStarViaComboBox.Name = "CreatePopStarViaComboBox";
-            this.CreatePopStarViaComboBox.Size = new System.Drawing.Size(353, 30);
+            this.CreatePopStarViaComboBox.Size = new System.Drawing.Size(427, 36);
             this.CreatePopStarViaComboBox.Text = "ComboBox creëer een popster";
             this.CreatePopStarViaComboBox.TextDirection = System.Windows.Forms.ToolStripTextDirection.Horizontal;
             this.CreatePopStarViaComboBox.Click += new System.EventHandler(this.CreatePopStarViaComboBox_Click);
@@ -152,35 +152,35 @@
             // DataGridView
             // 
             this.DataGridView.Name = "DataGridView";
-            this.DataGridView.Size = new System.Drawing.Size(353, 30);
+            this.DataGridView.Size = new System.Drawing.Size(427, 36);
             this.DataGridView.Text = "DataGridView";
             this.DataGridView.Click += new System.EventHandler(this.DataGridView_Click);
             // 
             // UpdateTextFile
             // 
             this.UpdateTextFile.Name = "UpdateTextFile";
-            this.UpdateTextFile.Size = new System.Drawing.Size(353, 30);
+            this.UpdateTextFile.Size = new System.Drawing.Size(427, 36);
             this.UpdateTextFile.Text = "UpdateTextFile";
             this.UpdateTextFile.Click += new System.EventHandler(this.UpdateTextFile_Click);
             // 
             // WebClient
             // 
             this.WebClient.Name = "WebClient";
-            this.WebClient.Size = new System.Drawing.Size(353, 30);
+            this.WebClient.Size = new System.Drawing.Size(427, 36);
             this.WebClient.Text = "WebClient";
             this.WebClient.Click += new System.EventHandler(this.WebClient_Click);
             // 
             // BackGroundProcess
             // 
             this.BackGroundProcess.Name = "BackGroundProcess";
-            this.BackGroundProcess.Size = new System.Drawing.Size(353, 30);
+            this.BackGroundProcess.Size = new System.Drawing.Size(427, 36);
             this.BackGroundProcess.Text = "Achtergrond Proces";
             this.BackGroundProcess.Click += new System.EventHandler(this.BackGroundProcess_Click);
             // 
             // TabPages
             // 
             this.TabPages.Name = "TabPages";
-            this.TabPages.Size = new System.Drawing.Size(353, 30);
+            this.TabPages.Size = new System.Drawing.Size(427, 36);
             this.TabPages.Text = "Tab pagina\'s";
             this.TabPages.Click += new System.EventHandler(this.TabPages_Click);
             // 
@@ -189,13 +189,13 @@
             this.MenuItemMore.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.MenuItemPropertyGrid});
             this.MenuItemMore.Name = "MenuItemMore";
-            this.MenuItemMore.Size = new System.Drawing.Size(71, 29);
+            this.MenuItemMore.Size = new System.Drawing.Size(85, 36);
             this.MenuItemMore.Text = "More";
             // 
             // MenuItemPropertyGrid
             // 
             this.MenuItemPropertyGrid.Name = "MenuItemPropertyGrid";
-            this.MenuItemPropertyGrid.Size = new System.Drawing.Size(211, 30);
+            this.MenuItemPropertyGrid.Size = new System.Drawing.Size(243, 36);
             this.MenuItemPropertyGrid.Text = "Property Grid";
             this.MenuItemPropertyGrid.Click += new System.EventHandler(this.MenuItemPropertyGrid_Click);
             // 
@@ -214,7 +214,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(19F, 46F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.CancelButton = this.ButtonLeaveForm;
-            this.ClientSize = new System.Drawing.Size(1484, 711);
+            this.ClientSize = new System.Drawing.Size(1482, 703);
             this.Controls.Add(this.ButtonLeaveForm);
             this.Controls.Add(this.menuStrip1);
             this.Font = new System.Drawing.Font("Segoe UI", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);

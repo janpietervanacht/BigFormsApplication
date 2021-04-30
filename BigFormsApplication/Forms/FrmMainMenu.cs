@@ -33,8 +33,8 @@ namespace BigFormsApplication.Forms
 
             //++++++++++++++++++++++++++++++++++++++++++
             // Als je meteen naar je form wil springen:
-            var frmPropertyGrid = new FrmPropertyGrid(_clientManager, _invoiceManager);
-            frmPropertyGrid.ShowDialog();
+            //var frmPropertyGrid = new FrmPropertyGrid(_clientManager, _invoiceManager);
+            //frmPropertyGrid.ShowDialog();
 
             //++++++++++++++++++++++++++++++++++++++++++
         }
